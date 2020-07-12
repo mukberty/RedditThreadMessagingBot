@@ -8,9 +8,9 @@ Sends a message to every user who commented in a thread on Reddit.
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-## Must have a file `conent.py`, that prints the desired message content.
+#### Must have a file `content.py`, that prints the desired message content.
 
-# Eg-
+#### Eg-
 ````
 print('Hi,')
 print('blahblah...')
