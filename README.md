@@ -17,4 +17,4 @@ print('thank you for your time, have a nice day!')
 
 ### Disclaimer-
 * This project was made for educational purposes.
-* Please use it responsibly, and in accordance with Reddit's rules.
+* Please use it responsibly,in accordance with Reddit's rules.
